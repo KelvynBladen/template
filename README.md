@@ -1,18 +1,14 @@
-
-![SpaSES_Logo](https://github.com/user-attachments/assets/1b41df1c-47c8-480e-92b1-c4dc5fc4571e)
-
 # Project Repository Template
 
-Welcome to the SpaSES Lab project repository template! This repository is designed to help organize your project with standardized practices for managing code, data, and metadata. The following sections provide instructions on how to effectively use this repository template.
+Welcome to this repository template! This repository is designed to help organize your project with standardized practices for managing code, data, and metadata. The following sections provide instructions on how to effectively use this repository template.
 
 ## Table of Contents
 1. [How to Use This Repository](#how-to-use-this-repository)
 2. [Creating Project Metadata](#creating-project-metadata)
-3. [Downloading and Uploading Data to and from the SpaSES Google Drive](#downloading-and-uploading-data-to-and-from-the-spases-google-drive)
-4. [Standards for Documenting Code](#standards-for-documenting-code)
-5. [Committing, Pushing, and Pulling Changes](#committing-pushing-and-pulling-changes)
-6. [Using `.gitignore`](#using-gitignore)
-7. [`README.md` File Guidelines](#readmemd-file-guidelines)
+3. [Standards for Documenting Code](#standards-for-documenting-code)
+4. [Committing, Pushing, and Pulling Changes](#committing-pushing-and-pulling-changes)
+5. [Using `.gitignore`](#using-gitignore)
+6. [`README.md` File Guidelines](#readmemd-file-guidelines)
 
 ---
 
@@ -59,20 +55,6 @@ This directory serves a similar role to metadata, but it's specifically intended
 - Other documentation materials
 - Help Files
 - And More
-
----
-
-## Downloading and Uploading Data to and from the SpaSES Google Drive
-
-This repository includes templates for downloading and uploading data from/to the SpaSES Google Drive. For both downloading and uploading, ensure you have the necessary permissions to access the Google Drive folder. Here’s how to use the provided templates:
-
-### 1. Downloading Data from SpaSES Google Drive
-
-To download project data from the SpaSES Google Drive to your local R environment, you can use the provided script `download_data.R` found in the `scripts/utilities/` directory. Run the script, following the provided steps and customizing as needed, to authenticate and download the files into your local project directory.
-
-### 2. Uploading Data to SpaSES Google Drive
-
-To upload data from your local R environment to the SpaSES Google Drive, use the provided script `upload_data.R` found in the `scripts/utilities/` directory. Run the script, following the provided steps and customizing as needed, to authenticate and upload the files to the designated project folder.
 
 ---
 
